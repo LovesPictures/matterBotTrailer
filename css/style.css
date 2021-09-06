@@ -46,7 +46,7 @@ body {
       rgba(2, 0, 123, 0.95),
       rgba(123, 64, 123, 0.95)
     ),
-    url(/img/background.gif);
+    url(img/background.gif);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
